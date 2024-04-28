@@ -6,6 +6,7 @@ In this task, you'll develop a Laravel back-end service with a follow system cap
 1- A list of users along with each user's followers and followings.
 <br>
 2- An API for following.
+<br>
 3- An API for unfollowing.
 
 Notes:
