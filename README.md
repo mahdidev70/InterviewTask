@@ -8,6 +8,10 @@ In this task, you'll develop a Laravel back-end service with a follow system cap
 2- An API for following.
 <br>
 3- An API for unfollowing.
+<br>
+4- Write an API that displays the number of followers a user has each day.
+<br>
+5- Write an API that shows the mutual followers of two users.
 
 Notes:
 - Analysis of the structure and architecture is important.
