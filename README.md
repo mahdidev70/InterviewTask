@@ -9,7 +9,7 @@ In this task, you'll develop a Laravel back-end service with a follow system cap
 <br>
 3- An API for unfollowing.
 <br>
-4- Write an API that displays the number of followers a user has each day.
+4- Write an API that displays the number of each user's followers on daily basis.
 <br>
 5- Write an API that shows the mutual followers of two users.
 
